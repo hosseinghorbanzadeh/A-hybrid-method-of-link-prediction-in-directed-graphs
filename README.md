@@ -26,6 +26,19 @@ The format of the graph is text.for example:
 1 3
 ...
 # Required libraries
-
-
-
+CN-AH_AH is tested to work on Python 3.6
+pandas 
+numpy 
+operator
+networkx
+matplotlib
+xlsxwriter
+itertools 
+sklearn 
+scipy
+random
+math
+ast
+node2vec
+Or you can use the command:
+pip install requirements.txt
