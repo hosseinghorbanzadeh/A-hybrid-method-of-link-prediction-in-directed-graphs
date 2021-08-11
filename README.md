@@ -21,4 +21,9 @@ The measures proposed in this paper are compared to the following baseline metho
 The performance of the proposed measure is evaluated in two modes: Unsupervised link prediction and Supervised link prediction
 A Article of  Proposed measure can be found in https://www.sciencedirect.com/science/article/abs/pii/S0957417420306965
 # Graph Format
+The format of the graph is text.for example:
+1 2
+1 3
+...
+
 
