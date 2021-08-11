@@ -43,3 +43,16 @@ ast,
 node2vec.
 Or you can use the command:
 pip install requirements.txt
+# Run Code
+package CN-AH_AH.zip contains two folders:                                                                                                                                          supervis                                                                                                                                                                            unsupervis                                                                                                                                                                          In each folder you can see the evaluation in folder result by running the example file.
+# Cite
+@article{
+    title = "A-hybrid-method-of-link-prediction-in-directed-graphs",
+    journal = "Expert Systems With Applications",
+    year = "2021",
+    issn = "0957-4174",
+    doi = "https://doi.org/10.1016/j.eswa.2020.113896",
+    url = "https://www.sciencedirect.com/science/article/abs/pii/S0957417420306965",
+    author = "Hossein ghorbanzade ,Amir Sheikhahmadi,Mahdi Jalili and Sadegh Sulaimanyc",
+    keywords = "Link Prediction ,Structural Similarity,Local Similarity Measure,Common Neighborhood,Supervised Learning,Unsupervised Learning"
+}
