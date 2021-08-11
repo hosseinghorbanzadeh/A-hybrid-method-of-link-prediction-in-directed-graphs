@@ -44,7 +44,7 @@ node2vec.
 Or you can use the command:
 pip install requirements.txt
 # Run Code
-package CN-AH_AH.zip contains two folders:                                                                                                                                          supervis                                                                                                                                                                            unsupervis                                                                                                                                                                          In each folder you can see the evaluation in folder result by running the example file.
+package CN_AH_AH.zip contains two folders:                                                                                                                                          supervis                                                                                                                                                                            unsupervis                                                                                                                                                                          In each folder you can see the evaluation in folder result by running the example file.
 # Cite
 @article{                                                                                                                                                                           
     title = "A-hybrid-method-of-link-prediction-in-directed-graphs",                                                                                                                
