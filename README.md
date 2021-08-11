@@ -46,9 +46,9 @@ pip install requirements.txt
 # Run Code
 package CN-AH_AH.zip contains two folders:                                                                                                                                          supervis                                                                                                                                                                            unsupervis                                                                                                                                                                          In each folder you can see the evaluation in folder result by running the example file.
 # Cite
-@article{
-    title = "A-hybrid-method-of-link-prediction-in-directed-graphs",
-    journal = "Expert Systems With Applications",
+@article{                                                                                                                                                                           
+    title = "A-hybrid-method-of-link-prediction-in-directed-graphs",                                                                                                                
+    journal = "Expert Systems With Applications",                                                                                                                                    
     year = "2021",
     issn = "0957-4174",
     doi = "https://doi.org/10.1016/j.eswa.2020.113896",
