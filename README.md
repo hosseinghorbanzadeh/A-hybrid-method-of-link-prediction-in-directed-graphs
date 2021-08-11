@@ -47,7 +47,7 @@ pip install requirements.txt
 package CN_AH_AH.zip contains two folders:                                                                                                                                          
 supervis                                                                                                                                                                            
 unsupervis                                                                                                                                                                          
-In each folder you can see the evaluation in folder result by running the example file.
+In each folder you can see the evaluation in folder result by running the example.py.
 # Cite
 @article{                                                                                                                                                                           
     title = "A-hybrid-method-of-link-prediction-in-directed-graphs",                                                                                                                
