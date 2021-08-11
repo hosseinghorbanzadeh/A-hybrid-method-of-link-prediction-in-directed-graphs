@@ -22,8 +22,8 @@ The performance of the proposed measure is evaluated in two modes: Unsupervised 
 A Article of  Proposed measure can be found in https://www.sciencedirect.com/science/article/abs/pii/S0957417420306965
 # Graph Format
 The format of the graph is text.for example:
-1 2
-1 3
+1 2                                                                                                                                                                                  
+1 3                                                                                                                                                                                  
 ...
 # Required libraries
 CN-AH_AH is tested to work on Python 3.6.
