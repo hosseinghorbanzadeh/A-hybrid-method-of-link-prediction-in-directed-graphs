@@ -20,5 +20,5 @@ on the common neighbors
 The measures proposed in this paper are compared to the following baseline methods:CN-IN,CN-OUT,AA-IN,...
 The performance of the proposed measure is evaluated in two modes: Unsupervised link prediction and Supervised link prediction
 A Article of  Proposed measure can be found in https://www.sciencedirect.com/science/article/abs/pii/S0957417420306965
-#Graph Format
+# Graph Format
 
