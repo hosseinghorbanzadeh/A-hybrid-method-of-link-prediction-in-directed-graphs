@@ -15,7 +15,7 @@ limitations of common neighbor based measures, while maintaining
 their simplicity. In the proposed measure, the hub, authority, and direction
 of the connection (in-out-neighbor) are used along with the information
 on the common neighbors
- # CN-AH_AH
+ # CN_AH_AH
  is a Python code which offers for Proposed measure. 
 The measures proposed in this paper are compared to the following baseline methods:CN-IN,CN-OUT,AA-IN,...
 The performance of the proposed measure is evaluated in two modes: Unsupervised link prediction and Supervised link prediction
@@ -26,7 +26,7 @@ The format of the graph is text.for example:
 1 3                                                                                                                                                                                  
 ...
 # Required libraries
-CN-AH_AH is tested to work on Python 3.6.
+CN_AH_AH is tested to work on Python 3.6.
 Libraries to be installed:
 pandas,
 numpy,
