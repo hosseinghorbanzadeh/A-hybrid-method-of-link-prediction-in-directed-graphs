@@ -44,7 +44,7 @@ node2vec.
 Or you can use the command:
 pip install requirements.txt
 # Run Code
-package CN_AH_AH.zip contains two folders:                                                                                                                                          
+package CN_AH_AH contains two folders:                                                                                                                                          
 supervis                                                                                                                                                                            
 unsupervis                                                                                                                                                                          
 In each folder you can see the evaluation in folder result by running the example.py.
