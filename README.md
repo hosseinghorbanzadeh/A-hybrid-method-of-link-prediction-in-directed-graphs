@@ -1,4 +1,4 @@
-# A-hybrid-method-of-link-prediction-in-directed-graphs
+# A hybrid method of link prediction in directed graphs
 Link prediction is an important issue in complex network analysis and mining. Given the structure of a network, a
 link prediction algorithm obtains the probability that a link is established between two non-adjacent nodes in the
 future snapshots of the network. Many of the available link prediction methods are based on common neighborhood.
